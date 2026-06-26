@@ -4,8 +4,8 @@
 // @version      1.0.0
 // @homepageURL  https://github.com/Ceilphied/Lastpass-Fields-Fix
 // @supportURL   https://github.com/Ceilphied/Lastpass-Fields-Fix/issues
-// @updateURL    https://raw.githubusercontent.com/Ceilphied/Lastpass-Fields-Fix/main/Fix-LastPass-autofill-1.0.user.js
-// @downloadURL  https://raw.githubusercontent.com/Ceilphied/Lastpass-Fields-Fix/main/Fix-LastPass-autofill-1.0.user.js
+// @updateURL    https://raw.githubusercontent.com/Ceilphied/Lastpass-Fields-Fix/main/Fix-LastPass-autofill.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ceilphied/Lastpass-Fields-Fix/main/Fix-LastPass-autofill.user.js
 // @description  Fix username/password autocomplete attributes for LastPass
 // @match        https://flashpoint.ongoingsystems.se/flashpoint/login.aspx
 // @match        https://portal.dibspayment.eu/*
