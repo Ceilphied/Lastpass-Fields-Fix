@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fix LastPass autofill
 // @namespace    https://github.com/Ceilphied/Lastpass-Fields-Fix
-// @version      1.0.0
+// @version      1.0.1
 // @homepageURL  https://github.com/Ceilphied/Lastpass-Fields-Fix
 // @supportURL   https://github.com/Ceilphied/Lastpass-Fields-Fix/issues
 // @updateURL    https://raw.githubusercontent.com/Ceilphied/Lastpass-Fields-Fix/main/Fix-LastPass-autofill.user.js
@@ -10,7 +10,7 @@
 // @match        https://flashpoint.ongoingsystems.se/flashpoint/login.aspx
 // @match        https://portal.dibspayment.eu/*
 // @match        https://www.unifaunonline.com/jsapp/uo/*
-// @match        https://wisdom.pagodalog.com/bookings/onlinebooking
+// @match        https://wisdom.pagodalog.com/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
